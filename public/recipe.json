@@ -1,0 +1,28 @@
+[
+  {
+    "recipe_id": 1,
+    "recipe_name": "Spaghetti Bolognese",
+    "recipe_img": "https://s3-alpha-sig.figma.com/img/4c9c/4907/5cdba92e95d1813e3a14122be673189a?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Isijp6Uk7o3zmr0plCYtuSAw7A8RHxKNO83xJltwYTvMgJe8pz2uxq6~rDdRjUfyLUGyJK-h-7PbtI2niPTXbzVW7x1qXaXfZeLUufRz53Isj36ofrmT9Cf~dPHMoCu1Q5F-cDhrcWtQRxlln7Latt8b7TJTJxFYeTWSpGpojazPv0ZslkWqVqN~x6Uf9ocaCdW4xuB~SFBeUUb9qWMyLQLfME~25a1zR6mv1TC4PNSa~c2fzTIr68ajQkvBsNu9ciqU1wD3JfjYrCsGIgGHQhC3TqYLGCMFiPuq9elJaG8hwXl640JaETntRDcNWwCS1xUKgSLBfA~OyYHf0hzHvA__",
+    "short_description": "Classic Italian pasta dish with savory meat sauce",
+    "ingredients": [
+      "500g ground beef",
+      "1 onion ,chopped",
+      "2 cloves garlic,minced"
+    ],
+    "preparing_time": "30 minutes",
+    "calories": "600 calories"
+  },
+  {
+    "recipe_id": 2,
+    "recipe_name": "Chicken Caesar Salad",
+    "recipe_img": "https://s3-alpha-sig.figma.com/img/728d/7565/fe29593b9f62c1def025edfb2345fe84?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=QUlx~THQi-kNKo91b3Vbf80obF1oJQX8qf-fZbVQugo5UdWgOsqbiUATA2Im82BaHPDbJoYQFs5k9YilS19n7NdAdshyGS3kWc5Fmu6C0ETWjkHYJo2M6Zs1BSstAd62hjAoEs3y6BeTQW7X7G41-vfxtbR2620nqA62FKvz4VF2pNkr~oBV7kWKNipb6dkvXegEyKqphLCvM5EkQpFlXWK~bT44p-XFRN46myLDylWVw-ISFYnSvTxBue9VsmBrB19O4iqfbihf4xAyHrWjMk959~GOLrpB7tYyzJm-uhIfiNS2iUSsE-LbYVQZdLqJdsuRqLpigWNFnlizc9n~nA__",
+    "short_description": "Quick and healthy Asian-inspired dish",
+    "ingredients": [
+      "500g ground beef",
+      "1 onion ,chopped",
+      "2 cloves garlic,minced"
+    ],
+    "preparing_time": "30 minutes",
+    "calories": "600 calories"
+  }
+]
