@@ -108,6 +108,7 @@ const Card = () => {
           </div>
 
           <div className="w-full lg:w-1/3  mt-6 shadow-xl shadow-gray-400">
+            <h3 className="text-3xl font-bold my-4">Want to cook: 01</h3>
             <div className="flex justify-around">
               <p>Name </p>
               <p>Time </p>
