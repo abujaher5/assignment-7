@@ -37,7 +37,7 @@ const Header = () => {
       </header>
 
       <section className="  rounded-2xl mt-10 max-w-52 lg:max-w-[1320px] mx-auto">
-        <div className="hero  rounded-2xl lg:h-[500px] bg-[url(https://s3-alpha-sig.figma.com/img/2b8f/f4be/d57b5fb5ad84c9f6a9b1eb9782e9b11b?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RTU9cRG9u1xWOggoy1oPSzluJI1qJWhQ-SxLc8Ns1Uh-F~9CkUpCmV9NLALSwlfsmdZMpOzDvhfR-oCvlJZ4djYbgdOwZQaCZCX~HNA3GYOj3yIwJhrYB5Mt6PIVsZ-BnWg-SwVLhRyhYIx1kotjm47H~2WhDnmsjaL0Gggv5a6CeKC4MryeS5oj~ssvJb5wOVk1v0UBYRw6J86S9AbsCX5izXlQ~qHoQ1gouVlm3n0glkL5oX9BAn9NrPjPehrGknIqYzIcBWM1Zn7GibBgvs7UZ7S0qHuBfWi8WeY0dYnzjIMtkRrvebcfs~f423UDnPTmAcIjAyA-kbLgRDUB~g__)] ">
+        <div className="hero    rounded-2xl lg:h-[500px] bg-[url(https://s3-alpha-sig.figma.com/img/2b8f/f4be/d57b5fb5ad84c9f6a9b1eb9782e9b11b?Expires=1711929600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=RTU9cRG9u1xWOggoy1oPSzluJI1qJWhQ-SxLc8Ns1Uh-F~9CkUpCmV9NLALSwlfsmdZMpOzDvhfR-oCvlJZ4djYbgdOwZQaCZCX~HNA3GYOj3yIwJhrYB5Mt6PIVsZ-BnWg-SwVLhRyhYIx1kotjm47H~2WhDnmsjaL0Gggv5a6CeKC4MryeS5oj~ssvJb5wOVk1v0UBYRw6J86S9AbsCX5izXlQ~qHoQ1gouVlm3n0glkL5oX9BAn9NrPjPehrGknIqYzIcBWM1Zn7GibBgvs7UZ7S0qHuBfWi8WeY0dYnzjIMtkRrvebcfs~f423UDnPTmAcIjAyA-kbLgRDUB~g__)] ">
           <div className="hero-overlay bg-opacity-50"></div>
           <div className="hero-content text-center text-neutral-content">
             <div className="w-2/3">

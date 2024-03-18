@@ -1,17 +1,17 @@
 const Card = () => {
   return (
     <>
-      <section className=" max-w-52 lg:max-w-[1320px] mx-auto">
-        <h2 className="text-4xl">Our Recipes</h2>
-        <p>
+      <section className=" max-w-52 lg:max-w-[1320px] mx-auto mt-10">
+        <h2 className="text-4xl m-4">Our Recipes</h2>
+        <p className="w-2/3 mx-auto">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis
           quis dolore fugit animi est exercitationem labore officia recusandae
           beatae quod!
         </p>
 
         {/* card container  */}
-        <div className="flex ">
-          <div className="flex  w-2/3">
+        <div className="flex flex-col lg:flex-row  ">
+          <div className="flex flex-col lg:flex-row w-full lg:w-2/3">
             <div className="card space-y-6 card-compact bg-base-100 shadow-xl">
               <figure>
                 <img
@@ -33,9 +33,23 @@ const Card = () => {
                     <li>2 cloves garlic, minced</li>
                   </ul>
                 </div>
-                <div className="flex justify-start gap-10">
-                  <p>30 minutes</p>
-                  <p>600 calories</p>
+                <div className="flex justify-start mt-4 gap-10">
+                  <p className="inline-flex gap-1">
+                    <img
+                      className="h-6 w-6"
+                      src="../../images/time.png"
+                      alt=""
+                    />
+                    <span>30 minutes</span>
+                  </p>
+                  <p className="inline-flex gap-1">
+                    <img
+                      className="h-6 w-6"
+                      src="../../images/calories.png"
+                      alt=""
+                    />
+                    <span>600 calories</span>
+                  </p>
                 </div>
                 <div className="card-actions justify-start mt-2">
                   <button className="btn btn-primary rounded-full">
@@ -52,7 +66,7 @@ const Card = () => {
                 />
               </figure>
               <div className="">
-                <h2 className="card-title">Spaghetti Bolognese</h2>
+                <h2 className="card-title">Chicken Caesar Salad</h2>
                 <p className="text-left mb-2">
                   Classic Italian pasta dish with savory meat sauce.
                 </p>
@@ -65,9 +79,24 @@ const Card = () => {
                     <li>2 cloves garlic, minced</li>
                   </ul>
                 </div>
-                <div className="flex justify-start gap-10">
-                  <p>30 minutes</p>
-                  <p>600 calories</p>
+
+                <div className="flex justify-start mt-4 gap-10">
+                  <p className="inline-flex gap-1">
+                    <img
+                      className="h-6 w-6"
+                      src="../../images/time.png"
+                      alt=""
+                    />
+                    <span>30 minutes</span>
+                  </p>
+                  <p className="inline-flex gap-1">
+                    <img
+                      className="h-6 w-6"
+                      src="../../images/calories.png"
+                      alt=""
+                    />
+                    <span>600 calories</span>
+                  </p>
                 </div>
                 <div className="card-actions justify-start mt-2">
                   <button className="btn btn-primary rounded-full">
@@ -78,7 +107,7 @@ const Card = () => {
             </div>
           </div>
 
-          <div className="w-1/3 mt-6 shadow-xl shadow-gray-400">
+          <div className="w-full lg:w-1/3  mt-6 shadow-xl shadow-gray-400">
             <div className="flex justify-around">
               <p>Name </p>
               <p>Time </p>
