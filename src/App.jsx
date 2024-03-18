@@ -1,9 +1,12 @@
 import "./App.css";
+import Card from "./Components/Card";
+import Header from "./Components/Header";
 
 function App() {
   return (
     <>
-      <h2>Chefs Table</h2>
+      <Header></Header>
+      <Card></Card>
     </>
   );
 }
